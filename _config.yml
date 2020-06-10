@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Systems Research Laboratory
 description: Our goal at the Systems Research Laboratory (SyLab) is to conduct research in the experimental computer systems area. We are currently building library, systems, and distributed computing software support for data-intensive cloud and IoT/edge applications, including those that use machine learning and big data. Our past contributions include energy, performance, and self-management for storage systems and resource isolation and performance guarantees within virtualized systems.
-logo: /images/logo_placeholder.png
+logo: /images/logo.png
 show_downloads: false
 about: /about.md
 people: /pages/people.md

@@ -1,4 +1,4 @@
-## Welcome to Systems Research Labority(Sylab)'s Website
+## Welcome to Sylab's Website
   
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
